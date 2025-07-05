@@ -1,0 +1,44 @@
+leader + e --> show files tree
+leader ff --> find file
+leader fg --> grep file
+leader fb --> find buffor
+ctrl ww --> switch focus window
+ctrl wh --> switch focus right window
+ctrl wl --> switch focus left window
+leader e d --> remove file
+leader e a --> create file
+shift k --> Reference to documentation.
+leader fm --> format
+gd --> Go to definition.
+gt --> Go to type definition
+gi --> Go to implementation
+gr --> find reference
+rr --> rename
+leader ca --> Quick actions
+C-k --> Signature healp
+C-Space --> Show auto suggestion
+S-Tab --> Revers order quering sugestion.
+While automplition and docs show C-f --> Scroll forward
+While automplition and docs show C-b --> Scroll backward
+C-Space --> Mark code fragmen.
+C-Bs --> Unmark code fragment.
+[d --> Previous diagnostic.
+]d --> Next diagnostic.
+C-o --> jump to prevoius open nvim window.
+C-i --> jump to next open nvim window.
+
+loader gs --> git status.
+loader gc --> git commit.
+loader gp --> git push.
+loader gll ->> git pull.
+
+: Git commit --> git commit.
+:Git add % --> add current file to git.
+:Git add . --> add all files in current folder.
+:Gdiff --> open view diff with current changes.
+:Glog --> open history commit view.
+
+loader gg --> open lazy git.
+/phrase n --> jump to next find.
+/phrase N --> jump to prev fund.
+
