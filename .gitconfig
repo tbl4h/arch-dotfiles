@@ -1,0 +1,5 @@
+[credential]
+	helper = cache --timeout=3600
+[user]
+	email = mic.maci2891@gmail.com
+	name = Michał Karwacki
